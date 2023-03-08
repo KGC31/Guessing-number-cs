@@ -1,0 +1,15 @@
+C:\Users\kimcu\Documents\Codes\C#\Guessing number\obj\Debug\net7.0\Guessing number.csproj.AssemblyReference.cache
+C:\Users\kimcu\Documents\Codes\C#\Guessing number\obj\Debug\net7.0\Guessing number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimcu\Documents\Codes\C#\Guessing number\obj\Debug\net7.0\Guessing number.AssemblyInfoInputs.cache
+C:\Users\kimcu\Documents\Codes\C#\Guessing number\obj\Debug\net7.0\Guessing number.AssemblyInfo.cs
+C:\Users\kimcu\Documents\Codes\C#\Guessing number\obj\Debug\net7.0\Guessing number.csproj.CoreCompileInputs.cache
+C:\Users\kimcu\Documents\Codes\C#\Guessing number\bin\Debug\net7.0\Guessing number.exe
+C:\Users\kimcu\Documents\Codes\C#\Guessing number\bin\Debug\net7.0\Guessing number.deps.json
+C:\Users\kimcu\Documents\Codes\C#\Guessing number\bin\Debug\net7.0\Guessing number.runtimeconfig.json
+C:\Users\kimcu\Documents\Codes\C#\Guessing number\bin\Debug\net7.0\Guessing number.dll
+C:\Users\kimcu\Documents\Codes\C#\Guessing number\bin\Debug\net7.0\Guessing number.pdb
+C:\Users\kimcu\Documents\Codes\C#\Guessing number\obj\Debug\net7.0\Guessing number.dll
+C:\Users\kimcu\Documents\Codes\C#\Guessing number\obj\Debug\net7.0\refint\Guessing number.dll
+C:\Users\kimcu\Documents\Codes\C#\Guessing number\obj\Debug\net7.0\Guessing number.pdb
+C:\Users\kimcu\Documents\Codes\C#\Guessing number\obj\Debug\net7.0\Guessing number.genruntimeconfig.cache
+C:\Users\kimcu\Documents\Codes\C#\Guessing number\obj\Debug\net7.0\ref\Guessing number.dll
